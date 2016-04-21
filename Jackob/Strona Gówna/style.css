@@ -1,26 +1,54 @@
 body {
 	background: #FFFFFF;
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 20px;
 	width: auto;
 	margin-left: 20%;
 	margin-right: 20%;
     flex-direction: column;
+	
+	color: #191919;
+    font-family: trebuchet MS,sans-serif;
+    font-size: 22px;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 1;
+    text-align: left;
+    text-shadow: 1px 1px 4px rgba(110, 110, 110, 0.5);
+    word-spacing: 3pt;
 }
 
 
 #main_page_content {
-	padding: 7%;
+	padding-left: 7%;
+	padding-right: 7%;
+	padding-top: 2%;
+	padding-bottom-: 5%;
 	justify-content: center;
     float: left;
    
     width: auto;
     line-height: 1.5;
+	
 	border-left: 1px solid rgba(0,0,0,0.38);
 	border-right: 1px solid rgba(0,0,0,0.38);
+	border-color: linear-gradient(rgba(0, 0, 0, 0), rgba(43, 169, 22, 0.8), rgba(0, 0, 0, 0));
 }
 
 #main_page_main_title {
     text-align: center;
+	font-size: 30px;
+}
+
+hr.hr_main_title_top { 
+border: 0; 
+height: 6px; 
+width: 40%;
+background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(43, 169, 22, 0.8), rgba(0, 0, 0, 0));
+}
+
+hr.hr_main_title_bottom { 
+border: 0; 
+height: 6px; 
+width: 60%;
+background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(43, 169, 22, 0.8), rgba(0, 0, 0, 0));
 }
 
