@@ -1,0 +1,45 @@
+Jackob - Strona g³ówna, Moje suszenie, Ustawienia
+
+21 IV 2016
+$- utworzenie podstaw: marginesy, pozycjonowanie
+$- utworzenie wzoru dla czcionki i innych podstron
+$- dopasowanie elastycznego pozycjonowania (dopasowanie sie do okna przegladarki)
+
+22 IV 2016
+$- ustawienie zmniejszania sie marginesu po zmniejszeniu rozdzielczoœci o 1200px
+
+23 IV 2016
+$- eksperymentowanie z wygladem hr
+
+24 IV 2016
+$- ustawienie mini loga w top hr
+$- pogrubienie top i bottom hr-a
+$- zmniejszenie nasycenia (rgba) border-a contenta
+$- eksperymentowanie z border-em
+
+25 IV 2016
+?- napisanie i wklejenie tekstu Strona G³ówna
+?- normalizacja kodu css i html 
+?- ustalenie i organizacja elementów w Moje suszenie
+?- ustawienie wstêpnego wygl¹du oraz kolorystki elementów w Moje suszenie
+
+26 IV 2016
+?- napisanie i wklejenie tekstów w Moje suszenie
+?- poprawa i ukoñczenie wygladu i kolorystyki
+?- normalizacja kodu css i html 
+?- organizacja pracy Ustawienia - podzia³ zadañ
+
+27 IV 2016
+?- 
+?- 
+?- 
+?- 
+
+28 IV 2016
+?- 
+?- 
+?- 
+?- 
+
+Przydatne?:
+http://www.p-programowanie.pl/html-css/strona-responsywna/
