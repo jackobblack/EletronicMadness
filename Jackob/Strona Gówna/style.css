@@ -72,4 +72,20 @@ width: 50%;
 background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(43, 169, 22, 0.8), rgba(0, 0, 0, 0));
 }
 
+#current_status{
+height: 35px; 
+width: 50%;
+background: blue;
+font-size: 20px;
+float: left;
+display: inline-block; 
+}
 
+#current_status_on{
+width: 100%;
+background: blue;
+font-size: 20px;
+float: right;
+display: inline-block; 
+
+}
